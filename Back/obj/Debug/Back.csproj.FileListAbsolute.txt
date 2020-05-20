@@ -1,0 +1,10 @@
+C:\Users\ivano\source\repos\Back\Back\bin\Debug\Back.exe.config
+C:\Users\ivano\source\repos\Back\Back\bin\Debug\Back.exe
+C:\Users\ivano\source\repos\Back\Back\bin\Debug\Back.pdb
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.Main.resources
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.Properties.Resources.resources
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.exe
+C:\Users\ivano\source\repos\Back\Back\obj\Debug\Back.pdb
